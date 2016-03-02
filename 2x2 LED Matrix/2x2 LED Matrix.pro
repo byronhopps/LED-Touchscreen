@@ -1,4 +1,4 @@
-update=3/1/2016 4:20:31 PM
+update=3/2/2016 1:04:23 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,24 +27,15 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=C:/Users/Byron/OneDrive/Projects/EDA Libraries & Stuff/KiCad_Symbol_Libraries
+LibDir=../../EDA Libraries & Stuff/KiCad_Symbol_Libraries
 [eeschema/libraries]
-LibName1=Passives
-LibName2=LMxxx
-LibName3=Generic Symbols
-LibName4=40xx Series
-LibName5=Switch
-LibName6=power
-LibName7=device
-LibName8=transistors
-LibName9=conn
-LibName10=linear
-LibName11=regul
-LibName12=74xx
-LibName13=texas
-LibName14=intel
-LibName15=philips
-LibName16=display
-LibName17=cypress
-LibName18=siliconi
-LibName19=opto
+LibName1=power
+LibName2=40xx Series
+LibName3=LMxxx
+LibName4=Passives
+LibName5=Transistors
+LibName6=device
+LibName7=conn
+LibName8=linear
+LibName9=texas
+LibName10=opto
