@@ -1,4 +1,4 @@
-update=3/2/2016 1:04:23 AM
+update=3/2/2016 6:56:45 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -34,8 +34,9 @@ LibName2=40xx Series
 LibName3=LMxxx
 LibName4=Passives
 LibName5=Transistors
-LibName6=device
-LibName7=conn
-LibName8=linear
-LibName9=texas
-LibName10=opto
+LibName6=Generic Symbols
+LibName7=device
+LibName8=conn
+LibName9=linear
+LibName10=texas
+LibName11=opto

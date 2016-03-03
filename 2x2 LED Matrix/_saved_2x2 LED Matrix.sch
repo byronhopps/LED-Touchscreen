@@ -1228,7 +1228,7 @@ LED3
 Text Label 8600 5600 0    60   ~ 0
 LED4
 $Sheet
-S 10400 2800 1600 1200
+S 9600 2200 1100 1300
 U 56D7A188
 F0 "Detector X" 60
 F1 "Quad Detector.sch" 60
@@ -1274,7 +1274,7 @@ U 1 1 56D86E36
 P 700 950
 F 0 "P2" H 700 1100 50  0000 C CNN
 F 1 "PWR" V 800 950 50  0000 C CNN
-F 2 "" H 700 950 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x02" H 700 950 50  0001 C CNN
 F 3 "" H 700 950 50  0000 C CNN
 	1    700  950 
 	-1   0    0    -1  
