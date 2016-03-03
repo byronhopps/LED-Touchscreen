@@ -205,7 +205,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 5415CFA7) (tstamp 56D92D22)
-    (at 250 39 180)
+    (at 250 251.5 180)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /56D9071B/56D8602C)
@@ -234,7 +234,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 5415CFA7) (tstamp 56D92D17)
-    (at 190 39 180)
+    (at 190 251.5 180)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /56D9071B/56D8602C)
@@ -323,7 +323,7 @@
   )
 
   (module LEDs:LED-5MM (layer B.Cu) (tedit 5570F7EA) (tstamp 56D92CC9)
-    (at 42.5 237.54 90)
+    (at 262.5 237.54 90)
     (descr "LED 5mm round vertical")
     (tags "LED 5mm round vertical")
     (path /56D7A188/56D7A3ED)
@@ -353,7 +353,7 @@
   )
 
   (module LEDs:LED-5MM (layer B.Cu) (tedit 5570F7EA) (tstamp 56D92CBE)
-    (at 42.5 177.54 90)
+    (at 262.5 177.54 90)
     (descr "LED 5mm round vertical")
     (tags "LED 5mm round vertical")
     (path /56D7A188/56D7A3ED)
@@ -443,7 +443,7 @@
   )
 
   (module LEDs:LED-5MM (layer B.Cu) (tedit 5570F7EA) (tstamp 56D92C9D)
-    (at 42.5 222.54 90)
+    (at 262.5 222.54 90)
     (descr "LED 5mm round vertical")
     (tags "LED 5mm round vertical")
     (path /56D7A188/56D7A3E6)
@@ -473,7 +473,7 @@
   )
 
   (module LEDs:LED-5MM (layer B.Cu) (tedit 5570F7EA) (tstamp 56D92C92)
-    (at 42.5 162.54 90)
+    (at 262.5 162.54 90)
     (descr "LED 5mm round vertical")
     (tags "LED 5mm round vertical")
     (path /56D7A188/56D7A3E6)
@@ -623,7 +623,7 @@
   )
 
   (module LEDs:LED-5MM (layer B.Cu) (tedit 5570F7EA) (tstamp 56D92C5B)
-    (at 42.5 207.54 90)
+    (at 262.5 207.54 90)
     (descr "LED 5mm round vertical")
     (tags "LED 5mm round vertical")
     (path /56D7A188/56D7A3DF)
@@ -653,7 +653,7 @@
   )
 
   (module LEDs:LED-5MM (layer B.Cu) (tedit 5570F7EA) (tstamp 56D92C50)
-    (at 42.5 147.54 90)
+    (at 262.5 147.54 90)
     (descr "LED 5mm round vertical")
     (tags "LED 5mm round vertical")
     (path /56D7A188/56D7A3DF)
@@ -683,7 +683,7 @@
   )
 
   (module LEDs:LED-5MM (layer B.Cu) (tedit 5570F7EA) (tstamp 56D92C45)
-    (at 42.5 192.54 90)
+    (at 262.5 192.54 90)
     (descr "LED 5mm round vertical")
     (tags "LED 5mm round vertical")
     (path /56D7A188/56D7A3D8)
@@ -713,7 +713,7 @@
   )
 
   (module LEDs:LED-5MM (layer B.Cu) (tedit 5570F7EA) (tstamp 56D92C3A)
-    (at 42.5 132.54 90)
+    (at 262.5 132.54 90)
     (descr "LED 5mm round vertical")
     (tags "LED 5mm round vertical")
     (path /56D7A188/56D7A3D8)
@@ -743,7 +743,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 5415CFA7) (tstamp 56D92C2F)
-    (at 42.5 230 270)
+    (at 262.5 230 270)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /56D7A188/56D8602C)
@@ -772,7 +772,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 5415CFA7) (tstamp 56D92C24)
-    (at 42.5 170 270)
+    (at 262.5 170 270)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /56D7A188/56D8602C)
@@ -1057,7 +1057,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 5415CFA7) (tstamp 56D92BA9)
-    (at 42.5 215 270)
+    (at 262.5 215 270)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /56D7A188/56D86550)
@@ -1086,7 +1086,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 5415CFA7) (tstamp 56D92B9E)
-    (at 42.5 155 270)
+    (at 262.5 155 270)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /56D7A188/56D86550)
@@ -1115,7 +1115,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 5415CFA7) (tstamp 56D92B93)
-    (at 42.5 185 270)
+    (at 262.5 185 270)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /56D7A188/56D84C2D)
@@ -1144,7 +1144,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 5415CFA7) (tstamp 56D92B88)
-    (at 42.5 125 270)
+    (at 262.5 125 270)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /56D7A188/56D84C2D)
@@ -1173,7 +1173,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 5415CFA7) (tstamp 56D92B7D)
-    (at 42.5 200 270)
+    (at 262.5 200 270)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /56D7A188/56D85BE4)
@@ -1202,7 +1202,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 5415CFA7) (tstamp 56D92B72)
-    (at 42.5 140 270)
+    (at 262.5 140 270)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /56D7A188/56D85BE4)
@@ -1351,7 +1351,7 @@
   )
 
   (module LEDs:LED-5MM (layer B.Cu) (tedit 5570F7EA) (tstamp 56D92903)
-    (at 198.46 39)
+    (at 198.46 251.5)
     (descr "LED 5mm round vertical")
     (tags "LED 5mm round vertical")
     (path /56D9071B/56D7A3D8)
@@ -1381,7 +1381,7 @@
   )
 
   (module LEDs:LED-5MM (layer B.Cu) (tedit 5570F7EA) (tstamp 56D928F8)
-    (at 138.46 39)
+    (at 138.46 251.5)
     (descr "LED 5mm round vertical")
     (tags "LED 5mm round vertical")
     (path /56D9071B/56D7A3D8)
@@ -1471,7 +1471,7 @@
   )
 
   (module LEDs:LED-5MM (layer B.Cu) (tedit 5570F7EA) (tstamp 56D928D7)
-    (at 228.46 39)
+    (at 228.46 251.5)
     (descr "LED 5mm round vertical")
     (tags "LED 5mm round vertical")
     (path /56D9071B/56D7A3E6)
@@ -1501,7 +1501,7 @@
   )
 
   (module LEDs:LED-5MM (layer B.Cu) (tedit 5570F7EA) (tstamp 56D928CC)
-    (at 168.46 39)
+    (at 168.46 251.5)
     (descr "LED 5mm round vertical")
     (tags "LED 5mm round vertical")
     (path /56D9071B/56D7A3E6)
@@ -1531,7 +1531,7 @@
   )
 
   (module LEDs:LED-5MM (layer B.Cu) (tedit 5570F7EA) (tstamp 56D928C1)
-    (at 213.46 39)
+    (at 213.46 251.5)
     (descr "LED 5mm round vertical")
     (tags "LED 5mm round vertical")
     (path /56D9071B/56D7A3DF)
@@ -1561,7 +1561,7 @@
   )
 
   (module LEDs:LED-5MM (layer B.Cu) (tedit 5570F7EA) (tstamp 56D928B6)
-    (at 153.46 39)
+    (at 153.46 251.5)
     (descr "LED 5mm round vertical")
     (tags "LED 5mm round vertical")
     (path /56D9071B/56D7A3DF)
@@ -1651,7 +1651,7 @@
   )
 
   (module LEDs:LED-5MM (layer B.Cu) (tedit 5570F7EA) (tstamp 56D92895)
-    (at 243.46 39)
+    (at 243.46 251.5)
     (descr "LED 5mm round vertical")
     (tags "LED 5mm round vertical")
     (path /56D9071B/56D7A3ED)
@@ -1681,7 +1681,7 @@
   )
 
   (module LEDs:LED-5MM (layer B.Cu) (tedit 5570F7EA) (tstamp 56D9288A)
-    (at 183.46 39)
+    (at 183.46 251.5)
     (descr "LED 5mm round vertical")
     (tags "LED 5mm round vertical")
     (path /56D9071B/56D7A3ED)
@@ -1711,7 +1711,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 5415CFA7) (tstamp 56D9287F)
-    (at 235 39 180)
+    (at 235 251.5 180)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /56D9071B/56D86550)
@@ -1740,7 +1740,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 5415CFA7) (tstamp 56D92874)
-    (at 175 39 180)
+    (at 175 251.5 180)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /56D9071B/56D86550)
@@ -1909,7 +1909,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 5415CFA7) (tstamp 56D92831)
-    (at 220 39 180)
+    (at 220 251.5 180)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /56D9071B/56D85BE4)
@@ -1938,7 +1938,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 5415CFA7) (tstamp 56D92826)
-    (at 160 39 180)
+    (at 160 251.5 180)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /56D9071B/56D85BE4)
@@ -1967,7 +1967,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 5415CFA7) (tstamp 56D9281B)
-    (at 205 39 180)
+    (at 205 251.5 180)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /56D9071B/56D84C2D)
@@ -1996,7 +1996,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 5415CFA7) (tstamp 56D92810)
-    (at 145 39 180)
+    (at 145 251.5 180)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /56D9071B/56D84C2D)
@@ -22330,7 +22330,7 @@
   )
 
   (module LEDs:LED-5MM (layer B.Cu) (tedit 5570F7EA) (tstamp 56D95479)
-    (at 42.5 72.54 90)
+    (at 262.5 72.54 90)
     (descr "LED 5mm round vertical")
     (tags "LED 5mm round vertical")
     (path /56D7A188/56D7A3D8)
@@ -22360,7 +22360,7 @@
   )
 
   (module LEDs:LED-5MM (layer B.Cu) (tedit 5570F7EA) (tstamp 56D9547F)
-    (at 42.5 87.54 90)
+    (at 262.5 87.54 90)
     (descr "LED 5mm round vertical")
     (tags "LED 5mm round vertical")
     (path /56D7A188/56D7A3DF)
@@ -22390,7 +22390,7 @@
   )
 
   (module LEDs:LED-5MM (layer B.Cu) (tedit 5570F7EA) (tstamp 56D95485)
-    (at 42.5 102.54 90)
+    (at 262.5 102.54 90)
     (descr "LED 5mm round vertical")
     (tags "LED 5mm round vertical")
     (path /56D7A188/56D7A3E6)
@@ -22420,7 +22420,7 @@
   )
 
   (module LEDs:LED-5MM (layer B.Cu) (tedit 5570F7EA) (tstamp 56D9548B)
-    (at 42.5 117.54 90)
+    (at 262.5 117.54 90)
     (descr "LED 5mm round vertical")
     (tags "LED 5mm round vertical")
     (path /56D7A188/56D7A3ED)
@@ -22661,7 +22661,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 5415CFA7) (tstamp 56D954C1)
-    (at 42.5 65 270)
+    (at 262.5 65 270)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /56D7A188/56D84C2D)
@@ -22690,7 +22690,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 5415CFA7) (tstamp 56D954C7)
-    (at 42.5 80 270)
+    (at 262.5 80 270)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /56D7A188/56D85BE4)
@@ -22760,7 +22760,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 5415CFA7) (tstamp 56D954D9)
-    (at 42.5 95 270)
+    (at 262.5 95 270)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /56D7A188/56D86550)
@@ -22789,7 +22789,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 5415CFA7) (tstamp 56D954DF)
-    (at 42.5 110 270)
+    (at 262.5 110 270)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /56D7A188/56D8602C)
@@ -22888,7 +22888,7 @@
   )
 
   (module LEDs:LED-5MM (layer B.Cu) (tedit 5570F7EA) (tstamp 56D96070)
-    (at 78.46 39)
+    (at 78.46 251.5)
     (descr "LED 5mm round vertical")
     (tags "LED 5mm round vertical")
     (path /56D9071B/56D7A3D8)
@@ -22918,7 +22918,7 @@
   )
 
   (module LEDs:LED-5MM (layer B.Cu) (tedit 5570F7EA) (tstamp 56D96076)
-    (at 93.46 39)
+    (at 93.46 251.5)
     (descr "LED 5mm round vertical")
     (tags "LED 5mm round vertical")
     (path /56D9071B/56D7A3DF)
@@ -22948,7 +22948,7 @@
   )
 
   (module LEDs:LED-5MM (layer B.Cu) (tedit 5570F7EA) (tstamp 56D9607C)
-    (at 108.46 39)
+    (at 108.46 251.5)
     (descr "LED 5mm round vertical")
     (tags "LED 5mm round vertical")
     (path /56D9071B/56D7A3E6)
@@ -22978,7 +22978,7 @@
   )
 
   (module LEDs:LED-5MM (layer B.Cu) (tedit 5570F7EA) (tstamp 56D96082)
-    (at 123.46 39)
+    (at 123.46 251.5)
     (descr "LED 5mm round vertical")
     (tags "LED 5mm round vertical")
     (path /56D9071B/56D7A3ED)
@@ -23186,7 +23186,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 5415CFA7) (tstamp 56D960B2)
-    (at 85 39 180)
+    (at 85 251.5 180)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /56D9071B/56D84C2D)
@@ -23215,7 +23215,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 5415CFA7) (tstamp 56D960B8)
-    (at 100 39 180)
+    (at 100 251.5 180)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /56D9071B/56D85BE4)
@@ -23285,7 +23285,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 5415CFA7) (tstamp 56D960CA)
-    (at 115 39 180)
+    (at 115 251.5 180)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /56D9071B/56D86550)
@@ -23314,7 +23314,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 5415CFA7) (tstamp 56D960D0)
-    (at 130 39 180)
+    (at 130 251.5 180)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /56D9071B/56D8602C)
@@ -33288,18 +33288,18 @@
   (segment (start 80.45 80) (end 80.45 82.79) (width 0.3) (layer F.Cu) (net 22))
   (segment (start 80.45 82.79) (end 83.2 85.54) (width 0.3) (layer F.Cu) (net 22))
   (segment (start 84.25 86.81) (end 84.25 85.54) (width 0.3) (layer F.Cu) (net 22) (status 30))
-  (segment (start 42.5 190) (end 42.5 186.45) (width 0.3) (layer F.Cu) (net 23) (tstamp 56D92AF5) (status 30))
-  (segment (start 42.5 130) (end 42.5 126.45) (width 0.3) (layer F.Cu) (net 23) (tstamp 56D92AF4) (status 30))
-  (segment (start 42.5 70) (end 42.5 66.45) (width 0.3) (layer F.Cu) (net 23) (status 30))
-  (segment (start 42.5 205) (end 42.5 201.45) (width 0.3) (layer F.Cu) (net 24) (tstamp 56D92B5D) (status 30))
-  (segment (start 42.5 145) (end 42.5 141.45) (width 0.3) (layer F.Cu) (net 24) (tstamp 56D92B5C) (status 30))
-  (segment (start 42.5 85) (end 42.5 81.45) (width 0.3) (layer F.Cu) (net 24) (status 30))
-  (segment (start 42.5 220) (end 42.5 216.45) (width 0.3) (layer F.Cu) (net 25) (tstamp 56D92B57) (status 30))
-  (segment (start 42.5 160) (end 42.5 156.45) (width 0.3) (layer F.Cu) (net 25) (tstamp 56D92B56) (status 30))
-  (segment (start 42.5 100) (end 42.5 96.45) (width 0.3) (layer F.Cu) (net 25) (status 30))
-  (segment (start 42.5 235) (end 42.5 231.45) (width 0.3) (layer F.Cu) (net 26) (tstamp 56D92B2D) (status 30))
-  (segment (start 42.5 175) (end 42.5 171.45) (width 0.3) (layer F.Cu) (net 26) (tstamp 56D92B2C) (status 30))
-  (segment (start 42.5 115) (end 42.5 111.45) (width 0.3) (layer F.Cu) (net 26) (status 30))
+  (segment (start 262.5 190) (end 262.5 186.45) (width 0.3) (layer F.Cu) (net 23) (tstamp 56D92AF5) (status 30))
+  (segment (start 262.5 130) (end 262.5 126.45) (width 0.3) (layer F.Cu) (net 23) (tstamp 56D92AF4) (status 30))
+  (segment (start 262.5 70) (end 262.5 66.45) (width 0.3) (layer F.Cu) (net 23) (status 30))
+  (segment (start 262.5 205) (end 262.5 201.45) (width 0.3) (layer F.Cu) (net 24) (tstamp 56D92B5D) (status 30))
+  (segment (start 262.5 145) (end 262.5 141.45) (width 0.3) (layer F.Cu) (net 24) (tstamp 56D92B5C) (status 30))
+  (segment (start 262.5 85) (end 262.5 81.45) (width 0.3) (layer F.Cu) (net 24) (status 30))
+  (segment (start 262.5 220) (end 262.5 216.45) (width 0.3) (layer F.Cu) (net 25) (tstamp 56D92B57) (status 30))
+  (segment (start 262.5 160) (end 262.5 156.45) (width 0.3) (layer F.Cu) (net 25) (tstamp 56D92B56) (status 30))
+  (segment (start 262.5 100) (end 262.5 96.45) (width 0.3) (layer F.Cu) (net 25) (status 30))
+  (segment (start 262.5 235) (end 262.5 231.45) (width 0.3) (layer F.Cu) (net 26) (tstamp 56D92B2D) (status 30))
+  (segment (start 262.5 175) (end 262.5 171.45) (width 0.3) (layer F.Cu) (net 26) (tstamp 56D92B2C) (status 30))
+  (segment (start 262.5 115) (end 262.5 111.45) (width 0.3) (layer F.Cu) (net 26) (status 30))
   (segment (start 155 60.75) (end 155 62.5) (width 0.2) (layer F.Cu) (net 27))
   (segment (start 224.75 44.75) (end 224.450001 45.049999) (width 0.2) (layer B.Cu) (net 27) (tstamp 56D92955))
   (segment (start 164.75 44.75) (end 164.450001 45.049999) (width 0.2) (layer B.Cu) (net 27) (tstamp 56D92954))
@@ -33620,18 +33620,18 @@
   (segment (start 104.81 48.7) (end 105.31 48.7) (width 0.2) (layer F.Cu) (net 35))
   (segment (start 105.31 48.7) (end 109.749999 53.139999) (width 0.2) (layer F.Cu) (net 35))
   (segment (start 109.749999 53.139999) (end 109.749999 56.999999) (width 0.2) (layer F.Cu) (net 35))
-  (segment (start 203.55 39) (end 201 39) (width 0.3) (layer F.Cu) (net 36) (tstamp 56D92751))
-  (segment (start 143.55 39) (end 141 39) (width 0.3) (layer F.Cu) (net 36) (tstamp 56D92750))
-  (segment (start 83.55 39) (end 81 39) (width 0.3) (layer F.Cu) (net 36))
-  (segment (start 218.55 39) (end 216 39) (width 0.3) (layer F.Cu) (net 37) (tstamp 56D92799))
-  (segment (start 158.55 39) (end 156 39) (width 0.3) (layer F.Cu) (net 37) (tstamp 56D92798))
-  (segment (start 98.55 39) (end 96 39) (width 0.3) (layer F.Cu) (net 37))
-  (segment (start 233.55 39) (end 231 39) (width 0.3) (layer F.Cu) (net 38) (tstamp 56D927BD))
-  (segment (start 173.55 39) (end 171 39) (width 0.3) (layer F.Cu) (net 38) (tstamp 56D927BC))
-  (segment (start 113.55 39) (end 111 39) (width 0.3) (layer F.Cu) (net 38))
-  (segment (start 246 39) (end 248.55 39) (width 0.3) (layer F.Cu) (net 39) (tstamp 56D9274F))
-  (segment (start 186 39) (end 188.55 39) (width 0.3) (layer F.Cu) (net 39) (tstamp 56D9274E))
-  (segment (start 126 39) (end 128.55 39) (width 0.3) (layer F.Cu) (net 39))
+  (segment (start 203.55 251.5) (end 201 251.5) (width 0.3) (layer F.Cu) (net 36) (tstamp 56D92751))
+  (segment (start 143.55 251.5) (end 141 251.5) (width 0.3) (layer F.Cu) (net 36) (tstamp 56D92750))
+  (segment (start 83.55 251.5) (end 81 251.5) (width 0.3) (layer F.Cu) (net 36))
+  (segment (start 218.55 251.5) (end 216 251.5) (width 0.3) (layer F.Cu) (net 37) (tstamp 56D92799))
+  (segment (start 158.55 251.5) (end 156 251.5) (width 0.3) (layer F.Cu) (net 37) (tstamp 56D92798))
+  (segment (start 98.55 251.5) (end 96 251.5) (width 0.3) (layer F.Cu) (net 37))
+  (segment (start 233.55 251.5) (end 231 251.5) (width 0.3) (layer F.Cu) (net 38) (tstamp 56D927BD))
+  (segment (start 173.55 251.5) (end 171 251.5) (width 0.3) (layer F.Cu) (net 38) (tstamp 56D927BC))
+  (segment (start 113.55 251.5) (end 111 251.5) (width 0.3) (layer F.Cu) (net 38))
+  (segment (start 246 251.5) (end 248.55 251.5) (width 0.3) (layer F.Cu) (net 39) (tstamp 56D9274F))
+  (segment (start 186 251.5) (end 188.55 251.5) (width 0.3) (layer F.Cu) (net 39) (tstamp 56D9274E))
+  (segment (start 126 251.5) (end 128.55 251.5) (width 0.3) (layer F.Cu) (net 39))
   (segment (start 51 209.25) (end 56.75 209.25) (width 0.2) (layer B.Cu) (net 40) (tstamp 56D92CFD))
   (segment (start 51 149.25) (end 56.75 149.25) (width 0.2) (layer B.Cu) (net 40) (tstamp 56D92CFC))
   (segment (start 56.75 209.25) (end 62.75 203.25) (width 0.2) (layer B.Cu) (net 40) (tstamp 56D92CF7))
