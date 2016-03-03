@@ -91,17 +91,6 @@ F 3 "" H 4800 3700 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R_Small R2
-U 1 1 56F163E0
-P 4800 3400
-F 0 "R2" V 4750 3475 50  0000 L CNN
-F 1 "470R" V 4850 3475 50  0000 L CNN
-F 2 "Resistors_SMD:R_0805" H 4800 3400 50  0001 C CNN
-F 3 "" H 4800 3400 50  0000 C CNN
-	1    4800 3400
-	0    1    1    0   
-$EndComp
-$Comp
 L GND #PWR02
 U 1 1 56F163E1
 P 3400 3600
@@ -199,17 +188,6 @@ F 2 "" H 8800 3700 50  0000 C CNN
 F 3 "" H 8800 3700 50  0000 C CNN
 	1    8800 3700
 	1    0    0    -1  
-$EndComp
-$Comp
-L R_Small R3
-U 1 1 56F163E8
-P 8800 3400
-F 0 "R3" V 8750 3475 50  0000 L CNN
-F 1 "470R" V 8850 3475 50  0000 L CNN
-F 2 "Resistors_SMD:R_0805" H 8800 3400 50  0001 C CNN
-F 3 "" H 8800 3400 50  0000 C CNN
-	1    8800 3400
-	0    1    1    0   
 $EndComp
 $Comp
 L GND #PWR05
@@ -311,17 +289,6 @@ F 3 "" H 4800 6100 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R_Small R4
-U 1 1 56F163F0
-P 4800 5800
-F 0 "R4" V 4750 5875 50  0000 L CNN
-F 1 "470R" V 4850 5875 50  0000 L CNN
-F 2 "Resistors_SMD:R_0805" H 4800 5800 50  0001 C CNN
-F 3 "" H 4800 5800 50  0000 C CNN
-	1    4800 5800
-	0    1    1    0   
-$EndComp
-$Comp
 L GND #PWR08
 U 1 1 56F163F1
 P 3400 6000
@@ -419,17 +386,6 @@ F 2 "" H 8800 6100 50  0000 C CNN
 F 3 "" H 8800 6100 50  0000 C CNN
 	1    8800 6100
 	1    0    0    -1  
-$EndComp
-$Comp
-L R_Small R5
-U 1 1 56F163F8
-P 8800 5800
-F 0 "R5" V 8750 5875 50  0000 L CNN
-F 1 "470R" V 8850 5875 50  0000 L CNN
-F 2 "Resistors_SMD:R_0805" H 8800 5800 50  0001 C CNN
-F 3 "" H 8800 5800 50  0000 C CNN
-	1    8800 5800
-	0    1    1    0   
 $EndComp
 $Comp
 L GND #PWR011
@@ -685,14 +641,14 @@ Wire Wire Line
 Wire Wire Line
 	7900 5700 7800 5700
 Wire Wire Line
-	1700 2200 1700 5300
+	1700 2200 1700 6000
 Wire Wire Line
 	5700 2900 6100 2900
 Connection ~ 5700 2900
 Wire Wire Line
 	5700 5300 6100 5300
 Wire Wire Line
-	5700 2200 5700 5300
+	5700 2200 5700 6000
 Wire Wire Line
 	2700 2800 2900 2800
 Wire Wire Line
@@ -715,11 +671,11 @@ Connection ~ 1900 4700
 Wire Wire Line
 	6700 5200 6900 5200
 Wire Wire Line
-	1600 4700 5900 4700
+	1600 4700 9000 4700
 Wire Wire Line
 	6700 2800 6900 2800
 Wire Wire Line
-	1600 2300 5900 2300
+	1600 2300 9000 2300
 Wire Wire Line
 	5900 2300 5900 2700
 Wire Wire Line
@@ -1004,10 +960,10 @@ Wire Wire Line
 	1600 1100 1600 1300
 Connection ~ 1300 1100
 $Comp
-L CONN_01X01 P6
+L CONN_01X01 P7
 U 1 1 56F1A29A
 P 1400 4700
-F 0 "P6" H 1400 4800 50  0000 C CNN
+F 0 "P7" H 1400 4800 50  0000 C CNN
 F 1 "Y2" V 1500 4700 50  0000 C CNN
 F 2 "Measurement_Points:Measurement_Point_Square-SMD-Pad_Small" H 1400 4700 50  0001 C CNN
 F 3 "" H 1400 4700 50  0000 C CNN
@@ -1067,7 +1023,7 @@ F 1 "220K" V 3300 3300 50  0000 R CNN
 F 2 "Resistors_SMD:R_Array_Convex_4x1206" H 3438 3250 50  0001 C CNN
 F 3 "" H 3400 3400 50  0000 C CNN
 	1    3400 3400
-	0    -1   -1   0   
+	0    -1   1    0   
 $EndComp
 $Comp
 L R_Array-4 R1
@@ -1078,29 +1034,29 @@ F 1 "220K" V 7300 3300 50  0000 R CNN
 F 2 "Resistors_SMD:R_Array_Convex_4x1206" H 7438 3250 50  0001 C CNN
 F 3 "" H 7400 3400 50  0000 C CNN
 	2    7400 3400
-	0    -1   -1   0   
+	0    -1   1    0   
 $EndComp
 $Comp
 L R_Array-4 R1
 U 4 1 56F2A469
-P 7400 5800
-F 0 "R1" V 7500 5700 50  0000 R CNN
-F 1 "220K" V 7300 5700 50  0000 R CNN
-F 2 "Resistors_SMD:R_Array_Convex_4x1206" H 7438 5650 50  0001 C CNN
-F 3 "" H 7400 5800 50  0000 C CNN
-	4    7400 5800
-	0    -1   -1   0   
-$EndComp
-$Comp
-L R_Array-4 R1
-U 3 1 56F2A4F4
 P 3400 5800
 F 0 "R1" V 3500 5700 50  0000 R CNN
 F 1 "220K" V 3300 5700 50  0000 R CNN
 F 2 "Resistors_SMD:R_Array_Convex_4x1206" H 3438 5650 50  0001 C CNN
 F 3 "" H 3400 5800 50  0000 C CNN
-	3    3400 5800
-	0    -1   -1   0   
+	4    3400 5800
+	0    -1   1    0   
+$EndComp
+$Comp
+L R_Array-4 R1
+U 3 1 56F2A4F4
+P 7400 5800
+F 0 "R1" V 7500 5700 50  0000 R CNN
+F 1 "220K" V 7300 5700 50  0000 R CNN
+F 2 "Resistors_SMD:R_Array_Convex_4x1206" H 7438 5650 50  0001 C CNN
+F 3 "" H 7400 5800 50  0000 C CNN
+	3    7400 5800
+	0    -1   1    0   
 $EndComp
 $Comp
 L PMOS_Dual_SGDSGD Q1
@@ -1108,7 +1064,7 @@ U 2 1 56F2BC73
 P 7000 2800
 F 0 "Q1" H 7150 2750 50  0000 L CNN
 F 1 "PMOS" H 7150 2850 50  0000 L CNN
-F 2 "" H 7200 2900 50  0001 C CNN
+F 2 "IC Packages:TO-263" H 7200 2900 50  0001 C CNN
 F 3 "" H 7000 2800 50  0000 C CNN
 	2    7000 2800
 	1    0    0    1   
@@ -1119,7 +1075,7 @@ U 1 1 56F2BF31
 P 3000 5200
 F 0 "Q2" H 3150 5150 50  0000 L CNN
 F 1 "PMOS" H 3150 5250 50  0000 L CNN
-F 2 "" H 3200 5300 50  0001 C CNN
+F 2 "IC Packages:TO-263" H 3200 5300 50  0001 C CNN
 F 3 "" H 3000 5200 50  0000 C CNN
 	1    3000 5200
 	1    0    0    1   
@@ -1130,7 +1086,7 @@ U 1 1 56F2C827
 P 3000 2800
 F 0 "Q1" H 3150 2750 50  0000 L CNN
 F 1 "PMOS" H 3150 2850 50  0000 L CNN
-F 2 "" H 3200 2900 50  0001 C CNN
+F 2 "IC Packages:TO-263" H 3200 2900 50  0001 C CNN
 F 3 "" H 3000 2800 50  0000 C CNN
 	1    3000 2800
 	1    0    0    1   
@@ -1141,9 +1097,133 @@ U 2 1 56F2C82D
 P 7000 5200
 F 0 "Q2" H 7150 5150 50  0000 L CNN
 F 1 "PMOS" H 7150 5250 50  0000 L CNN
-F 2 "" H 7200 5300 50  0001 C CNN
+F 2 "IC Packages:TO-263" H 7200 5300 50  0001 C CNN
 F 3 "" H 7000 5200 50  0000 C CNN
 	2    7000 5200
 	1    0    0    1   
 $EndComp
+$Comp
+L CONN_01X01 P9
+U 1 1 56D71C16
+P 1700 6200
+F 0 "P9" H 1700 6300 50  0000 C CNN
+F 1 "X1" V 1800 6200 50  0000 C CNN
+F 2 "Measurement_Points:Measurement_Point_Square-SMD-Pad_Small" H 1700 6200 50  0001 C CNN
+F 3 "" H 1700 6200 50  0000 C CNN
+	1    1700 6200
+	0    1    1    0   
+$EndComp
+Connection ~ 1700 5300
+$Comp
+L CONN_01X01 P10
+U 1 1 56D72034
+P 5700 6200
+F 0 "P10" H 5700 6300 50  0000 C CNN
+F 1 "X2" V 5800 6200 50  0000 C CNN
+F 2 "Measurement_Points:Measurement_Point_Square-SMD-Pad_Small" H 5700 6200 50  0001 C CNN
+F 3 "" H 5700 6200 50  0000 C CNN
+	1    5700 6200
+	0    1    1    0   
+$EndComp
+Connection ~ 5700 5300
+$Comp
+L CONN_01X01 P6
+U 1 1 56D7285A
+P 9200 2300
+F 0 "P6" H 9200 2400 50  0000 C CNN
+F 1 "Y1" V 9300 2300 50  0000 C CNN
+F 2 "Measurement_Points:Measurement_Point_Square-SMD-Pad_Small" H 9200 2300 50  0001 C CNN
+F 3 "" H 9200 2300 50  0000 C CNN
+	1    9200 2300
+	1    0    0    -1  
+$EndComp
+Connection ~ 5900 2300
+$Comp
+L CONN_01X01 P8
+U 1 1 56D73117
+P 9200 4700
+F 0 "P8" H 9200 4800 50  0000 C CNN
+F 1 "Y2" V 9300 4700 50  0000 C CNN
+F 2 "Measurement_Points:Measurement_Point_Square-SMD-Pad_Small" H 9200 4700 50  0001 C CNN
+F 3 "" H 9200 4700 50  0000 C CNN
+	1    9200 4700
+	1    0    0    -1  
+$EndComp
+Connection ~ 5900 4700
+$Comp
+L R_Array-4_Small R2
+U 1 1 56D74356
+P 4800 5800
+F 0 "R2" V 4750 5875 50  0000 L CNN
+F 1 "470R" V 4850 5875 50  0000 L CNN
+F 2 "" H 4800 5800 50  0000 C CNN
+F 3 "" H 4800 5800 50  0000 C CNN
+	1    4800 5800
+	0    1    1    0   
+$EndComp
+$Comp
+L R_Array-4_Small R2
+U 2 1 56D74870
+P 8800 5800
+F 0 "R2" V 8750 5875 50  0000 L CNN
+F 1 "470R" V 8850 5875 50  0000 L CNN
+F 2 "" H 8800 5800 50  0000 C CNN
+F 3 "" H 8800 5800 50  0000 C CNN
+	2    8800 5800
+	0    1    1    0   
+$EndComp
+$Comp
+L R_Array-4_Small R2
+U 3 1 56D74D9A
+P 8800 3400
+F 0 "R2" V 8750 3475 50  0000 L CNN
+F 1 "470R" V 8850 3475 50  0000 L CNN
+F 2 "" H 8800 3400 50  0000 C CNN
+F 3 "" H 8800 3400 50  0000 C CNN
+	3    8800 3400
+	0    1    1    0   
+$EndComp
+$Comp
+L R_Array-4_Small R2
+U 4 1 56D74E2F
+P 4800 3400
+F 0 "R2" V 4750 3475 50  0000 L CNN
+F 1 "470R" V 4850 3475 50  0000 L CNN
+F 2 "" H 4800 3400 50  0000 C CNN
+F 3 "" H 4800 3400 50  0000 C CNN
+	4    4800 3400
+	0    1    1    0   
+$EndComp
+Text Label 1700 2600 1    60   ~ 0
+X1
+Text Label 5700 2600 1    60   ~ 0
+X2
+Text Label 2100 2300 0    60   ~ 0
+Y1
+Text Label 2100 4700 0    60   ~ 0
+Y2
+Text Label 3500 3100 0    60   ~ 0
+Decay-1
+Text Label 7500 3100 0    60   ~ 0
+Decay-2
+Text Label 3500 5500 0    60   ~ 0
+Decay-3
+Text Label 7500 5500 0    60   ~ 0
+Decay-4
+Text Label 2700 2800 0    60   ~ 0
+On-1
+Text Label 6700 2800 0    60   ~ 0
+On-2
+Text Label 2700 5200 0    60   ~ 0
+On-3
+Text Label 6700 5200 0    60   ~ 0
+On-4
+Text Label 4600 3200 0    60   ~ 0
+LED1
+Text Label 8600 3200 0    60   ~ 0
+LED2
+Text Label 4600 5600 0    60   ~ 0
+LED3
+Text Label 8600 5600 0    60   ~ 0
+LED4
 $EndSCHEMATC
