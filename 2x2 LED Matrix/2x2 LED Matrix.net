@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "C:/Users/Byron/OneDrive/Projects/LED-Touchscreen/2x2 LED Matrix/2x2 LED Matrix.sch")
-    (date "3/2/2016 9:40:09 PM")
+    (date "3/2/2016 10:44:48 PM")
     (tool "Eeschema 4.0.1-stable")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -722,7 +722,7 @@
       (node (ref C5) (pin 2))
       (node (ref D4) (pin 1))
       (node (ref IC1) (pin 7))
-      (node (ref VR1) (pin 2))
+      (node (ref VR1) (pin 3))
       (node (ref D2) (pin 1))
       (node (ref D1) (pin 1))
       (node (ref IC2) (pin 11))
@@ -768,8 +768,8 @@
       (node (ref IC4) (pin 6))
       (node (ref IC4) (pin 10))
       (node (ref IC3) (pin 6))
-      (node (ref IC3) (pin 10))
-      (node (ref VR1) (pin 3)))
+      (node (ref VR1) (pin 2))
+      (node (ref IC3) (pin 10)))
     (net (code 16) (name /Decay-1)
       (node (ref IC2) (pin 3))
       (node (ref C3) (pin 1))
